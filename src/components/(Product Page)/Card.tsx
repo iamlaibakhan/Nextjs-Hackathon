@@ -22,12 +22,11 @@ export default function Card() {
         <h1 className="text-2xl md:text-4xl font-medium md:font-semibold mb-4 text-center md:text-left">
           Library Stool Chair
         </h1>
-        <button className="px-6 py-2 bg-emerald-500 text-white font-semibold rounded hover:bg-emerald-600 transition duration-300 mb-4">
+        <button className="px-6 py-2 bg-cyan-500 text-white font-semibold rounded hover:bg-emerald-600 transition duration-300 mb-4">
           200 $ USD
         </button>
         <p className="text-center md:text-left leading-relaxed mb-6">
-          Pour-over craft beer pug drinking vinegar live-edge gastropub, keytar neutra sustainable fingerstache kickstarter.
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas voluptatum a veritatis pariatur.
+          Lorem ipsum dolor sit amet consecteture adipisicing elit.Nullam tincidunt erat enim.Lorem ipsum dolor sit amet, consectetur adipiscing
         </p>
         <button className="px-6 py-2 bg-cyan-500 text-white font-semibold rounded hover:bg-cyan-600 transition duration-300">
           ADD To Cart
